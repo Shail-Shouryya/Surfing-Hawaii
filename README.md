@@ -6,7 +6,7 @@
 
 To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database. All of the following analysis will be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
-* Use the provided [starter notebook](climate_starter.ipynb) and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete the climate analysis and data exploration.
+* Use the provided Jupyter notebook and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete the climate analysis and data exploration.
 
 * Choose a start date and end date for the trip. Make sure that the vacation range is approximately 3-15 days total.
 
